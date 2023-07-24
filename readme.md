@@ -1,7 +1,5 @@
 # hello git
 
-## просто отслеживаемый файл
+## текст для домашки
 
-### listing
-*feature 1
-*feature 2
+Создано в рамках курса OTUS JavaScript QA Engineer
